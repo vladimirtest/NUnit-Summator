@@ -1,2 +1,1 @@
-# NUnit-Summator
-NUnit-Summator
+NUnit summator
